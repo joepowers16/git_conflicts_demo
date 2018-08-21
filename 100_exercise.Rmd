@@ -1,0 +1,8 @@
+---
+title: "Tutorial exercise"
+author: "Joe Powers"
+date: "8/21/2018"
+output: html_document
+---
+
+http://eriqande.github.io/rep-res-web/lectures/conflicts-stashing-remotes.html#no-fear-merge-conflicts
